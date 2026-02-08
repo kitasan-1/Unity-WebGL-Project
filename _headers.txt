@@ -1,0 +1,14 @@
+/*.wasm
+  Content-Encoding: gzip
+
+/*.data
+  Content-Encoding: gzip
+
+/*.js.gz
+  Content-Encoding: gzip
+
+/*.js
+  Content-Encoding: gzip
+
+/*.framework.js.gz
+  Content-Encoding: gzip
